@@ -95935,7 +95935,7 @@ A.wJ.prototype={
 u(a){return B.Fr}}
 A.Su.prototype={
 mV(){var s,r,q,p,o,n=$.ah(),m=$.aSy()
-m=A.aLK(A.aL0("http://35.167.32.99:8096//user",A.at(["Content-Type",m.d+"/"+m.e,"Access-Control-Allow-Origin","http://35.167.32.99, http://localhost","Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Credentials","true"],t.N,t.z)))
+m=A.aLK(A.aL0("http://35.167.32.99:8096//user",A.at(["Content-Type",m.d+"/"+m.e,"Access-Control-Allow-Origin","http://35.167.32.99:8096, http://localhost","Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Credentials","true"],t.N,t.z)))
 s=A.iM(B.da,t.Nv)
 r=A.iM(null,t.t6)
 q=A.t5(A.b([],t.Da),t.BI)
